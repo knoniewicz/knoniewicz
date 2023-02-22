@@ -51,13 +51,3 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: .user.login
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://knoniewicz.github.io/portfolio/
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}

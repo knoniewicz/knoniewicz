@@ -39,7 +39,7 @@ jobs:
           plugin_music_limit: 5
           plugin_music_mode: recent
           plugin_music_played_at: yes
-          plugin_music_playlist: https://open.spotify.com/user/hh8sb3459na2uus9kccp7b1oj?si=81f5f5743f9b4b99
+          plugin_music_playlist: https://open.spotify.com/playlist/6Sa3WLB8KWnjOgNrVT0DQ3?si=a65efa2e00e84fad
           plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks
